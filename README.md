@@ -7,4 +7,3 @@ About me:
 - 👯 I am looking to collaborate in Data Analysis projects at an international level
 - 📫 How to contact me: wmateohv@hotmail.com / +593 98 091 5563 / https://www.linkedin.com/in/mateoheras/ 
 - ⚡ Fun fact: NBA and NFL fan
-- 
