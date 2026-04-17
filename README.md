@@ -150,24 +150,6 @@ fun_fact: "I build ML models between flight departures."
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp; GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MateoHeras77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MateoHeras77&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoHeras77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10" />
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=MateoHeras77&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateoHeras77&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Activity" />
-</p>
-
----
-
 ## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="28"> &nbsp; Let's connect
 
 <p align="center">
